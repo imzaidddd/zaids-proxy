@@ -12,9 +12,9 @@ body[theme="midnight"] {
 }
 body[theme="main"] {
     --text-color: white;
-    --background: #1a2023;
-    --navbar: #0e1213;
-    --accent: #0284d4;
+    --background: #FFC0CB;  /* 1a2023 */
+    --navbar: #FF69B4; /* 0e1213 */
+    --accent: #0284d4; /* 0284d4 */
 }
 body[theme="lgbtq"] {
     --text-color: black;
