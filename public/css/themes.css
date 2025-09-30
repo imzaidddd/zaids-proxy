@@ -16,9 +16,9 @@ body[theme="main"] {
     --navbar: #0e1213; /* 0e1213 */
     --accent: #0284d4; /* 0284d4 */
 }
-body[theme="lgbtq"] {
+body[theme="moamel"] {
     --text-color: black;
-    --background: url("https://www.rd.com/wp-content/uploads/2021/05/traditional-gay-pride-flag.jpg?resize=2048");
+    --background: url("https://i.ibb.co/S4HHZ7KZ/Screenshot-2025-09-30-10-17-15-AM.png?resize=2048");
     --navbar: #bcf3f6;
     --accent: #DDF9FA;
 }
