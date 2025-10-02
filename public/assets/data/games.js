@@ -170,7 +170,7 @@ var games = [
   },
   {
     id: 'retrobowl',
-    url: 'https://ubg100.vercel.app/games/retro-bowl',
+    window.open('https://original-website.com/retro-bowl', '_blank');
     title: 'Retro Bowl',
     image: 'https://play-lh.googleusercontent.com/WRM5Y1xZmzcCP1YtO5zl6G2g7CU5c5ZfjX4UVrgi1bpNgkfy-wuB-bQx3kkeRfaGYQ'
   },
