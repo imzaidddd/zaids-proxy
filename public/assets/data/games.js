@@ -173,6 +173,7 @@ var games = [
     url: 'https://assets.3kh0.net/retro-bowl/index.html',
     title: 'Retro Bowl',
     image: 'https://play-lh.googleusercontent.com/WRM5Y1xZmzcCP1YtO5zl6G2g7CU5c5ZfjX4UVrgi1bpNgkfy-wuB-bQx3kkeRfaGYQ'
+    <button onclick="window.open('https://classroom.google.com/c/NzA4NTQ0NzA3NTc5?cjc=5e644tru', '_blank')" class="button play"></button>
   },
   {
     id: 'littlealchemy',
