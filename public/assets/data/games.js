@@ -170,9 +170,9 @@ var games = [
   },
   {
      id: 'retrobowl',
-  title: 'Retro Bowl',
-  image: 'https://your-image-url.com/image.png',
-  originalUrl: 'https://example.com/original-retro-bowl' // <-- This is what makes the new tab work
+  title: 'Retro Bowl (Fixed)',
+  image: 'https://play-lh.googleusercontent.com/WRM5Y1xZmzcCP1YtO5zl6G2g7CU5c5ZfjX4UVrgi1bpNgkfy-wuB-bQx3kkeRfaGYQ',
+  originalUrl: 'https://ubg100.vercel.app/games/retro-bowl' // <-- This is what makes the new tab work
   },
   {
     id: 'littlealchemy',
