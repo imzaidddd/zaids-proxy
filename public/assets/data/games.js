@@ -170,7 +170,7 @@ var games = [
   },
   {
     id: 'retrobowl',
-    window.open('https://original-website.com/retro-bowl', '_blank');
+    url: 'https://assets.3kh0.net/ducklife4/index.html',
     title: 'Retro Bowl',
     image: 'https://play-lh.googleusercontent.com/WRM5Y1xZmzcCP1YtO5zl6G2g7CU5c5ZfjX4UVrgi1bpNgkfy-wuB-bQx3kkeRfaGYQ'
   },
