@@ -169,10 +169,10 @@ var games = [
     image: 'https://play-lh.googleusercontent.com/AUGkRrKMtUCLVE9vCvlfMY9Ny9EBqzx17yejVtEEhvpkw-H6lJlvBHgCMqPJm8HV_tM'
   },
   {
-    id: 'retrobowl',
-    url: 'https://assets.3kh0.net/ducklife4/index.html',
-    title: 'Retro Bowl',
-    image: 'https://play-lh.googleusercontent.com/WRM5Y1xZmzcCP1YtO5zl6G2g7CU5c5ZfjX4UVrgi1bpNgkfy-wuB-bQx3kkeRfaGYQ'
+     id: 'retrobowl',
+  title: 'Retro Bowl',
+  image: 'https://your-image-url.com/image.png',
+  originalUrl: 'https://example.com/original-retro-bowl' // <-- This is what makes the new tab work
   },
   {
     id: 'littlealchemy',
