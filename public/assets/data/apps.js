@@ -104,9 +104,9 @@ var apps = [
       "description": "Windows 10 recreation in React.js"
     },
     {
-      'id': 'winxp',
-      'title': 'Windows XP in React',
-      'url': 'https://www.oonjaa.com/',
+      'id': 'win10real',
+      'title': 'Real Windows 10/11 (may not work)',
+      'url': 'https://apponfly.com',
       "image": "https://archive.org/services/img/1d9464dbff7a1630882d0e2090cb714c",
       "description": "Windows XP recreation in React.js"
     },
