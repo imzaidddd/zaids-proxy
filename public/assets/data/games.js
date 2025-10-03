@@ -5,10 +5,10 @@ var games = [
     image: 'assets/images/add.png'
   },
   {
-    id: 'idlebreakout',
-    title: 'Idle Breakout',
-    url: 'https://assets.3kh0.net/idle-breakout/index.html/',
-    image: 'https://play-lh.googleusercontent.com/e5jzYTn7Mjh9Ghn-DFpVedkOlRfSOyCS2AFgXdTrADIuuUbjx6vP6r_YOM2j5m7uLQ'
+    id: 'crazygames',
+    title: 'Crazy Games',
+    url: 'https://crazygames.com',
+    image: 'https://i.ibb.co/TDbnBW9D/favicon.jpg'
   },
   {
     id: 'eggycar',
@@ -423,7 +423,7 @@ var games = [
   {
     id: '2048',
     title: '2048',
-    url: 'https://assets.3kh0.net/2048/index.html',
+    url: 'https://2048game.com/',
     image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/2048_logo.svg/220px-2048_logo.svg.png'
   },
   {
@@ -493,10 +493,10 @@ var games = [
     image: 'https://lh5.googleusercontent.com/7h-724mAeXnnyC-MA1OA8RI1iaQYgcCZlAt9A8hLk8BLruu0Bu5NCBH1geQJqAUmMztyS4dEIQruPJYgypQTarqr9G4-ydAM8bsQxL2rFL6LUPxbi2JnBEgrWqeg08a9Lg=w1280'
   },
   {
-    id: '1on1basketball',
-    title: '1 On 1 Basketball',
-    url: 'https://google-opensocial.googleusercontent.com/gadgets/ifr?url=https://s3.amazonaws.com/production-assetsbucket-8ljvyr1xczmb/1ee20621-61bc-4ec8-a8ec-5e839c2e6edc%2F1-on-1-basketball.xml',
-    image: 'https://tgkathletics.com/wp-content/uploads/2020/01/1-on-1-Bball-5.jpg'
+    id: 'basketbros',
+    title: 'Basket Bros',
+    url: 'https://www.crazygames.com/game/basketbros',
+    image: 'https://i.ibb.co/1fD066xR/favicon.png'
   },
   {
     id: 'johnnyupgrade',
