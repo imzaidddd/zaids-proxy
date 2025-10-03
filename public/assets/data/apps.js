@@ -117,6 +117,7 @@ var apps = [
       "image": "https://cattn.github.io/gba/pwa/apple-icon-180.png",
       "description": "A Game Boy Advance retro emulator with over 3000 games, and other consoles as well"
     }
+    
   ]
   
   var customapps = JSON.parse(localStorage.getItem("customapps"))
