@@ -314,8 +314,8 @@ var games = [
   },
   {
     id: 'subwaysurfers',
-    title: 'Subway Surfers',
-    url: 'https://assets.3kh0.net/subway-surfers/index.html',
+    title: 'Subway Surfers (Fixed)',
+    url: 'https://files.ufreegame.net/1024/Subway-Surfers-Zurich/',
     image: 'https://cdnb.artstation.com/p/assets/images/images/040/799/939/large/celine-j-1-74-shanghai-icon-1024-x.jpg?1629908071'
   },
   {
