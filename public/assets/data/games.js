@@ -11,10 +11,10 @@ var games = [
     image: 'https://i.ibb.co/TDbnBW9D/favicon.jpg'
   },
   {
-    id: 'eggycar',
-    title: 'Eggy Car',
-    url: 'https://assets.3kh0.net/eggycar/index.html',
-    image: 'https://assets.3kh0.net/eggycar/eggy-car.png'
+    id: 'basketrandom',
+    title: 'Basket Random',
+    url: 'https://basket-random-omega.vercel.app/',
+    image: 'https://i.ibb.co/1fD066xR/favicon.png'
   },
   {
     id: 'rocketleague',
@@ -38,7 +38,7 @@ var games = [
   {
     id: 'thereisnogame',
     title: 'There Is No Game',
-    url: 'https://assets.3kh0.net/there-is-no-game/index.html',
+    url: 'https://www.crazygames.com/game/there-is-no-game',
     image: 'https://play-lh.googleusercontent.com/a6DfrYUL6viV0LAZFplqqA44gE0LHE0PyDnKHgdlydiUvccwzSBWrmRQSx5cjdL74Us=w240-h480-rw'
   },
   {
@@ -51,7 +51,7 @@ var games = [
   {
     id: 'driftboss',
     title: 'Drift Boss',
-    image: 'https://play-lh.googleusercontent.com/fLrnXuD1B0w6FEDJ1UKmv_TYbNyJ4GwzsQu9ltx57MfIj037nig4cVunG3CYmczkjMDA',
+    image: 'https://driftboss.io/drift-boss.embed',
     url: 'https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://738501629-461082748261058427.preview.editmysite.com/uploads/b/139890129-817510652323129407/files/drbo.xml'
   },
   {
@@ -153,7 +153,7 @@ var games = [
   {
     id: 'paperio2',
     title: 'Paper.io 2',
-    url: 'https://assets.3kh0.net/paperio2/index.html',
+    url: 'https://paperio.site/',
     image: 'https://play-lh.googleusercontent.com/KxcjUrs8S75iOPnKBR2b-s7eGtqbREwLgzttVxaM9Znl5ZxsDCl6qEZHny4rBkMeYA=w240-h480-rw'
   },
   {
@@ -183,13 +183,13 @@ var games = [
   {
     id: 'templerun2',
     title: 'Temple Run 2',
-    url: 'https://assets.3kh0.net/temple-run-2/index.html',
+    url: 'https://azgames.io/game/temple-runner/',
     image: 'https://play-lh.googleusercontent.com/go4XqS4mYs-G2tZymiVLF4wJYXIi5QrvwixNRzssk4G_vRBHrAdg4E1ddNwy9c2cZA'
   },
   {
     id: 'stickmanhook',
     title: 'Stickman Hook',
-    url: 'https://assets.3kh0.net/stickman-hook/index.html',
+    url: 'https://stickman.pro/iframe/index.html',
     image: 'https://play-lh.googleusercontent.com/yXqBI1Vb1b-xjwmXLE2T7FQbgHIxfvjze1b6jO2aLHfy8Y8ta7NFSEVqZoPHtM2Ajyrl'
   },
   {
@@ -198,20 +198,6 @@ var games = [
     url: 'https://coolmathgames.com/0-run-3/play',
     image: 'https://play-lh.googleusercontent.com/A97ygyZMgnoapGfPhWZn9QBMsrskPuPQmJqeEtROZWnbQRfAOZZlhtP-UBWxaKtMI6U',
     description: 'Run 3 is a classic game where you swerve through space in a race to the finish. Play hundreds of new levels in this fast-paced platformer'
-  },
-  {
-    id: 'run1',
-    title: 'Run 1',
-    url: 'https://glcdn.githack.com/kaioxdev/legacy-assets/-/raw/main/run/index.html',
-    image: 'https://trefoilkingdom.com/uploads/games/21624/Run-1.jpg',
-    description: 'Run 1 is a classic game where you swerve through space in a race to the finish. Play hundreds of new levels in this fast-paced platformer'
-  },
-  {
-    id: 'run2',
-    title: 'Run 2',
-    url: 'https://glcdn.githack.com/kaioxdev/legacy-assets/-/raw/main/Run%202/index.html',
-    image: 'https://i.pinimg.com/280x280_RS/b6/2f/e8/b62fe8c6a9ceb9fd7e5257ad25f6897d.jpg',
-    description: 'Run 2 is a classic game where you swerve through space in a race to the finish. Play hundreds of new levels in this fast-paced platformer'
   },
   {
     id: 'justfall',
@@ -321,7 +307,7 @@ var games = [
   {
     id: 'geometrydash',
     title: 'Geometry Dash',
-    url: 'https://assets.3kh0.net/geodash/index.html',
+    url: 'https://1games.io/game/geometry-lite/',
     image: 'https://upload.wikimedia.org/wikipedia/en/3/35/Geometry_Dash_Logo.PNG'
   },
   {
@@ -339,7 +325,7 @@ var games = [
   {
     id: 'fruitninja',
     title: 'Fruit Ninja',
-    url: 'https://assets.3kh0.net/fruitninja/index.html',
+    url: 'https://html5.gamedistribution.com/rvvASMiM/a186dc9ac7f548f884db8ff54df6dd9f/index.html?gd_sdk_referrer_url=https%3A%2F%2Fgamedistribution.com%2Fgames%2Ffruit-ninja-2%2F%3Fgd_sdk_referrer_url%3Dhttps%3A%2F%2F1games.io%2Ffruit-ninja&gd_zone_config=eyJwYXJlbnRVUkwiOiJodHRwczovL2dhbWVkaXN0cmlidXRpb24uY29tL2dhbWVzL2ZydWl0LW5pbmphLTIvP2dkX3Nka19yZWZlcnJlcl91cmw9aHR0cHM6Ly8xZ2FtZXMuaW8vZnJ1aXQtbmluamEiLCJwYXJlbnREb21haW4iOiJnYW1lZGlzdHJpYnV0aW9uLmNvbSIsInRvcERvbWFpbiI6IjFnYW1lcy5pbyIsImhhc0ltcHJlc3Npb24iOmZhbHNlLCJsb2FkZXJFbmFibGVkIjp0cnVlLCJob3N0IjoiaHRtbDUuZ2FtZWRpc3RyaWJ1dGlvbi5jb20iLCJ2ZXJzaW9uIjoiMS41LjE4In0%253D',
     image: 'https://play-lh.googleusercontent.com/iRlGmvtJ524J-gAGdJJchMv-MH-9AuG80TAx8Rv8q3lObiI7kLVZrEvjVOM-yw3BBH4'
   },
   {
@@ -367,22 +353,16 @@ var games = [
     image: 'https://play-lh.googleusercontent.com/oObkhKfUXOY5yzheKe9w1Y1pXZBgdiSksMeNmT0BijoQ8J75maTCIW2TA7-6pA6EMA'
   },
   {
-    id: 'basketballstars',
-    title: 'Basketball Stars',
-    url: 'https://assets.3kh0.net/basketball-stars/index.html',
-    image: 'https://play-lh.googleusercontent.com/EjJV6kCXgX9EIhKEtpYhQF8-BUb5En8sDKpOPiWSQJUxv9_RAfl4tMxyIMkQYgeqC6I=w240-h480-rw'
-  },
-  {
     id: 'amongus',
     title: 'Among Us',
     url: 'https://assets.3kh0.net/among-us/index.html',
     image: 'https://play-lh.googleusercontent.com/8ddL1kuoNUB5vUvgDVjYY3_6HwQcrg1K2fd_R8soD-e2QYj8fT9cfhfh3G0hnSruLKec'
   },
   {
-    id: 'rocketleague',
-    title: 'Rocket League',
-    url: 'https://assets.3kh0.net/Rocket-League/index.html',
-    image: 'https://cdn2.iconfinder.com/data/icons/popular-games-1/50/rocketleague_squircle-512.png'
+    id: 'deeradventure',
+    title: 'Deer Adventuree',
+    url: 'https://deer-adventure.1games.io/',
+    image: 'https://images2.1games.io/cache/game/deer-adventure/deer-advanture-m200x130.webp'
   },
   {
     id: 'curveball3d',
@@ -417,7 +397,7 @@ var games = [
   {
     id: 'aquapark',
     title: 'aquapark.io',
-    url: 'https://assets.3kh0.net/aquapark-slides/index.html',
+    url: 'https://classroomjq.github.io/aqua-thrills/',
     image: 'https://play-lh.googleusercontent.com/pNI21ILS4I9IAzveYzjbfk5D5LGuL03b0Ea4OtlFRLD_yk7KYLBeLlBmsvhH7Uj-dQn6'
   },
   {
@@ -517,10 +497,10 @@ var games = [
     image: 'https://play-lh.googleusercontent.com/YsT4stD48fWw0XuIT87ilZtBfTkOGlxj3PpWI9qeFUkrvpu1xjemXzqf12DxBvv-Ikk'
   },
   {
-    id: 'brawlguys',
-    title: 'Brawl Guys',
-    url: 'https://zayaruzostreetorgan.com/uploads/5/5/6/7/5567194/custom_themes/139948058740159493/files/index.html',
-    image: 'https://play-lh.googleusercontent.com/EiElcSrd6-o-19roiswSx0AZPzsq6qF3hUGHsSWDl5UVtj7G23DHkneM8ucwqyOmEg'
+    id: 'dudetheftauto',
+    title: 'Dude Theft Auto',
+    url: 'https://azgames.io/dude-theft-auto.embed',
+    image: 'https://azgames.io/upload/cache/upload/imgs/dudetheftauto3-m180x180.webp'
   },
   {
     id: 'digtochina',
