@@ -373,7 +373,7 @@ var games = [
   {
     id: 'bitlife',
     title: 'Bitlife',
-    url: 'https://assets.3kh0.net/bitlife/index.html',
+    url: 'https://azgames.io/bitlife.embed',
     image: 'https://d.newsweek.com/en/full/1317374/bitlife-ribbons-how-get-all-complete-list-android-ios-cheats-guide-tips-become.jpg?w=1600&h=1600&q=88&f=75befc746fb83a0c568c44ca07bc5e64'
   },
   {
