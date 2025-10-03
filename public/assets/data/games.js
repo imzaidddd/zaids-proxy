@@ -127,7 +127,7 @@ var games = [
   {
     id: 'happywheels',
     title: 'Happy Wheels',
-    url: 'https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://cdn.jsdelivr.net/gh/proudparrot2/goguardian/happywheels.xml',
+    url: 'https://totaljerkface.com/happy-wheels-js/index.tjf',
     image: 'https://play-lh.googleusercontent.com/SV8RsV5udSeeONjatT5SwleP6lzV6PjtNPs2VvyohJXWSG9fFLNOfslDEHbpDN337wQ'
   },
   {
