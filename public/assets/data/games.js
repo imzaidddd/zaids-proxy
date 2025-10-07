@@ -487,7 +487,7 @@ var games = [
   {
     id: 'holeio',
     title: 'Hole.io',
-    url: 'https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://cdn.jsdelivr.net/gh/gertdoro/Toolkit@93a27eabbbe5eb626af5b9b7dd0926ac16810a41/Code/Java/hole.xml',
+    url: 'https://playhole.io/wp-content/uploads/games/html5/H/holeio/index.html',
     image: 'https://play-lh.googleusercontent.com/PTnoGeHV-bsIF79sW4IX4MzKAKaWj9fBWGvR4AOA4tmW0eYjPo3bVdpPYR7GGeX-0w'
   },
   {
