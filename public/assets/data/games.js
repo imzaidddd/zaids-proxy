@@ -22,12 +22,25 @@ var games = [
     url: 'https://glcdn.githack.com/kaioxdev/legacy-assets/-/raw/main/Rocket-League/index.html',
     image: 'https://www.softgozar.com/Image/Softwares/Thumbnail/Rocket_League_Anniversary_SoftGozar.com.png'
   },
+   {
+    id: 'nzp',
+    title: 'NZP',
+    url: 'https://nzp.gay/',
+    image: 'https://i.ibb.co/LhHB0SbM/download.png'
+  },
   {
     id: 'cookieclicker',
     title: 'Cookie Clicker',
     description: 'Cookie Clicker is an addictive incremental game where players click to produce cookies, unlock upgrades, and aim to amass an ever-growing mountain of delicious digital treats.',
     url: 'https://sushi8756.github.io/Cookie-Clicker-2.031/',
     image: 'https://cdn.discordapp.com/icons/339131488111034389/73f15cd93d96504af9877a53816d110c.png'
+  },
+    {
+    id: 'eaglercraft',
+    title: 'Minecraft (EaglerCraft)',
+    description: 'If you are stuck on a white screen. please wait for the game to load fully.',
+    url: 'https://eaglercraft.org/',
+    image: 'https://cdn.freebiesupply.com/logos/large/2x/minecraft-1-logo-svg-vector.svg'
   },
   {
     id: 'jacksmith',
@@ -77,7 +90,7 @@ var games = [
     id: 'backrooms',
     title: 'Backrooms',
     description: 'Scary game based on the viral 4Chan post.',
-    url: 'https://assets.3kh0.net/backrooms/index.html',
+    url: 'https://backroomsgame.io/',
     image: 'https://media.wired.com/photos/627b0c1fb6048c47d506c6c0/1:1/w_679,h_679,c_limit/Backrooms-Games.jpg'
   },
   {
