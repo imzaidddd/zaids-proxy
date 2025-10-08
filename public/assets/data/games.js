@@ -126,8 +126,8 @@ var games = [
   {
     id: 'shellshockers',
     title: 'Shell Shockers',
-    description: 'Shell Shockers is unique online shooter in first-person perspective where all the characters are represented exclusively by eggs.',
-    url: 'https://assets.3kh0.net/shellshockers/index.html',
+    description: 'Note: This game may only work for some users.',
+    url: 'https://eggshock.com/',
     image: 'https://play-lh.googleusercontent.com/P-nde227L29s8w5U44kTPLiEnMEJUhJpEr4jL6tD6LV65Xz0JZtI4wEyFN-smsNrx-Q'
   },
   {
