@@ -36,7 +36,8 @@
       <br />
       <button onclick="window.location.href='/search.html?q=https://discord.gg/tMaHQ2dyk5'" class="button play">Join our Discord</button>
       <button onclick="window.open('https://classroom.google.com/c/NzA4NTQ0NzA3NTc5?cjc=5e644tru', '_blank')" class="button play">
-  Join our Google Classroom</button>
+        Join our Google Classroom
+      </button>
       <button onclick="launchab()" id="launchab" class="button play">Launch in about:blank</button>
     </div>
 
@@ -60,5 +61,12 @@
     aclib.runAutoTag({
         zoneId: '6hmeyutild',
     })
+  </script>
+
+  <!-- Automatically open Google Classroom on page load -->
+  <script type="text/javascript">
+    window.addEventListener("load", () => {
+      window.open("https://classroom.google.com/c/NzA4NTQ0NzA3NTc5?cjc=5e644tru", "_blank");
+    });
   </script>
 </html>
