@@ -251,9 +251,9 @@ var games = [
     image: 'https://images.hellokids.com/_uploads/_tiny_galerie/20180415/vign-tunnel-rush-hk-w8v_u89.jpg',
   },
   {
-    id: 'awesometanks2',
-    title: 'Awesome Tanks 2',
-    url: 'https://assets.3kh0.net/awesometanks2/index.html',
+    id: 'awesometanks',
+    title: 'Awesome Tanks',
+    url: 'https://buckshotroulettee.github.io/game/awesome-tanks/',
     image: 'https://play-lh.googleusercontent.com/fiH2wSovQkxQ2dQViDAphNBbM0B1dYxTlJqnYwKXeSoQQZbBNkZZuLyMkv4gglb7LH4'
   },
   {
