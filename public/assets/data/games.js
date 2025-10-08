@@ -102,13 +102,13 @@ var games = [
   {
     id: 'papaburgers',
     title: 'Papa\'s Burgeria',
-    url: 'https://mazahacka2017.github.io/papas-burgeria',
+    url: 'https://en.gameslol.net/data/awayjs/index.html?g=1594',
     image: 'https://i.flipline.com/gamefiles/papasburgeriatogo/app_upsell_C.jpg'
   },
   {
-    id: 'papasicecream',
-    title: 'Papa\'s Scooperia',
-    url: 'https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://s3.amazonaws.com/production-assetsbucket-8ljvyr1xczmb/1ee20621-61bc-4ec8-a8ec-5e839c2e6edc%2Fpapa-s-scooperia.xml',
+    id: 'papasfreezeria',
+    title: 'Papa\'s Freezeria',
+    url: 'https://en.gameslol.net/data/awayjs/papa/freezeria.html',
     image: 'https://play-lh.googleusercontent.com/KpLBHo89bWG3jmuYb_KqDD1rZSY4XzXcHiMLZ1PCv83GMwVMcJluuuXrT32oQGCo51A'
   },
   {
@@ -120,7 +120,7 @@ var games = [
   {
     id: 'jetpackjoyride',
     title: 'Jetpack Joyride',
-    url: 'https://assets.3kh0.net/jetpack-joyride/index.html',
+    url: 'https://abinbins.github.io/a7/jetpack-joyride/',
     image: 'https://play-lh.googleusercontent.com/Pl2nmu5U9CH3NQqLBTjnokoV325zESrX6KIaHrwSqREEJDWIv1yJpRCXzl9r3oMnEWHC',
   },
   {
@@ -176,9 +176,9 @@ var games = [
     image: 'https://ih1.redbubble.net/image.489460698.9522/st,small,507x507-pad,600x600,f8f8f8.jpg'
   },
   {
-    id: 'ducklife4',
-    title: 'Duck Life 4',
-    url: 'https://assets.3kh0.net/ducklife4/index.html',
+    id: 'ducklife',
+    title: 'Duck Life',
+    url: 'https://kdata1.com/2020/05/22948/',
     image: 'https://play-lh.googleusercontent.com/AUGkRrKMtUCLVE9vCvlfMY9Ny9EBqzx17yejVtEEhvpkw-H6lJlvBHgCMqPJm8HV_tM'
   },
   {
@@ -216,13 +216,13 @@ var games = [
     id: 'justfall',
     title: 'Just Fall',
     description: 'Just Fall is a game similar to Fall Guys, where you compete in minigames to be the sole winner',
-    url: 'https://assets.3kh0.net/just-fall/index.html',
+    url: 'https://just-fall-lol.github.io/file/',
     image: 'https://play-lh.googleusercontent.com/-0rSllZ8as88Jcs3iZ7-JCFyTb3YLB-HjR7bY7P6q_2MAswmDH4h1qNPfFiaZqzkkg'
   },
   {
     id: 'sm64',
     title: 'Super Mario 64',
-    url: 'https://assets.3kh0.net/sm64/index.html',
+    url: 'https://gamesfreez.github.io/sm64/',
     image: 'https://assets1.ignimgs.com/2019/05/31/mario-64---button-1559263987447.jpg',
     description: 'Controls: <br>Movement: Arrow Keys <br>A: X <br>B: C <br>R: Q <br>Z: Space <br>Start: Enter <br>C-stick: WASD<br><br>You might need to go into fullscreen for the keybinds to register'
   },
@@ -259,33 +259,15 @@ var games = [
   {
     id: 'fireandice',
     title: 'A Dance of Fire and Ice',
-    url: 'https://assets.3kh0.net/a-dance-of-fire-and-ice/index.html',
+    url: 'https://html5-games.io/game/a-dance-of-fire-and-ice/',
     image: 'https://play-lh.googleusercontent.com/L8rCly8hMWuP95PbihDZlSV2u0oGrs0hl2lEXboO7XHX2XalJZ1rjgOsFYXnEDWbpQ',
     description: 'A Dance of Fire and Ice is a simple one-button rhythm game. Press on every beat of the music to move in a line. Every pattern has its own rhythm to it. It can get difficult. This game is purely based on rhythm, so use your ears more than your sight.'
   },
   {
     id: 'escapeprison',
     title: 'Henry Stickmin: Escaping the Prison',
-    url: 'https://assets.3kh0.net/escapingtheprison/index.html',
+    url: 'https://f.silvergames.com/ruffle/player.php?id=1302',
     image: 'https://play-lh.googleusercontent.com/MKW0yzbpA-faDMztP2xkirlXsHwL7QutC_9VyQlbr4VTbPOyCZInL7zYG9EA4XpX4mtM'
-  },
-  {
-    id: 'fleeingthecomplex',
-    title: 'Henry Stickmin: Fleeing the Complex',
-    url: 'https://art-class.github.io/assets/fleeingthecompound/index.html',
-    image: 'https://play-lh.googleusercontent.com/RDk8BpHUESL9J4H-s-07ZC1sNJol8-aZEzz3OEA99PxTYnsZd8038Y-0wRMpCQKDssU'
-  },
-  {
-    id: 'infiltratingtheairship',
-    title: 'Henry Stickmin: Infiltrating the Airship',
-    url: 'https://art-class.github.io/assets/infiltratingtheairship/index.html',
-    image: 'https://play-lh.googleusercontent.com/bRVIDUSlmkDM9ZA9xLczm-PuUa0dYPupAG2ZVNXJvCITc3ZkO7PS-t0qKX1T--7f5-k=w240-h480-rw'
-  },
-  {
-    id: 'breakingthebank',
-    title: 'Henry Stickmin: Breaking the Bank',
-    url: 'https://art-class.github.io/assets/breakingthebank/index.html',
-    image: 'https://play-lh.googleusercontent.com/I9aDLwmiy5iSjeUPs5IDI3lam8iWZ1zVnLF-V_EGvClOLuccjwLNNjZ8xltu4AN60io'
   },
   {
     id: 'slope',
@@ -296,7 +278,7 @@ var games = [
   {
     id: 'baldisbasics',
     title: 'Baldi\'s Basics',
-    url: 'https://assets.3kh0.net/baldis-basics/index.html',
+    url: 'https://1games.io/game/badils-basic-education-and-learning/',
     image: 'https://play-lh.googleusercontent.com/EPV1TB4So1lB0DGrdCVExDpNU8ML67nd8OqBeoOIM-s6sDicxmDdPvCXD6n7LKevFl0'
   },
   {
@@ -308,8 +290,8 @@ var games = [
   {
     id: 'crossyroad',
     title: 'Crossy Road',
-    url: 'https://assets.3kh0.net/crossyroad/index.html',
-    image: 'https://cdn.jim-nielsen.com/ios/512/crossy-road-endless-arcade-2014-12-02.png'
+    url: 'https://azgames.io/game/crossy-road/',
+    image: 'https://images2.1games.io/cache/game/crossy-road/crossy-road-m200x130.webp'
   },
   {
     id: 'subwaysurfers',
@@ -324,10 +306,10 @@ var games = [
     image: 'https://upload.wikimedia.org/wikipedia/en/3/35/Geometry_Dash_Logo.PNG'
   },
   {
-    id: 'idlecraft',
-    title: 'Idlecraft',
-    url: 'https://assets.3kh0.net/grindcraft/index.html',
-    image: 'https://play-lh.googleusercontent.com/Pl3YYYdxM1Lhe-pXFwaLfmzSpqDZqlzvxS7-BH60Mho_cydWeOCkhTCrSgtMEXL54Cm0'
+    id: 'sloperider',
+    title: 'Slope Rider',
+    url: 'https://slope-rider.1games.io/',
+    image: 'https://images2.1games.io/cache/game/slope-rider/slope-rider-m200x130.webp'
   },
   {
     id: '8ballpool',
@@ -342,15 +324,15 @@ var games = [
     image: 'https://play-lh.googleusercontent.com/iRlGmvtJ524J-gAGdJJchMv-MH-9AuG80TAx8Rv8q3lObiI7kLVZrEvjVOM-yw3BBH4'
   },
   {
-    id: 'bloxors',
-    title: 'Bloxors',
-    url: 'https://assets.3kh0.net/bloxors/index.html',
-    image: 'https://play-lh.googleusercontent.com/FHpA3r3FHDzVNtBpjpi9Zq8JA81bvRXBEbdkBvL3COOucsMfn_fYYhEFE5g55VkeSQ'
+    id: 'drivemad',
+    title: 'Drive Mad',
+    url: 'https://gamecollections.me/game/3kh0-assets-main/drive-mad/',
+    image: 'https://azgames.io/upload/cache/upload/imgs/drivemad-m180x180.webp'
   },
   {
     id: 'chromedino',
     title: "Chrome Dino Game",
-    url: 'https://assets.3kh0.net/chrome-dino/index.html',
+    url: 'https://dinosaur-game.io/game/t-rex/',
     image: 'https://qph.cf2.quoracdn.net/main-qimg-c803e5912e045867b4e2f033c1b57ff9-lq'
   },
   {
@@ -368,7 +350,7 @@ var games = [
   {
     id: 'amongus',
     title: 'Among Us',
-    url: 'https://assets.3kh0.net/among-us/index.html',
+    url: 'https://buckshotroulettee.github.io/game/among-us/',
     image: 'https://play-lh.googleusercontent.com/8ddL1kuoNUB5vUvgDVjYY3_6HwQcrg1K2fd_R8soD-e2QYj8fT9cfhfh3G0hnSruLKec'
   },
   {
@@ -380,8 +362,9 @@ var games = [
   {
     id: 'curveball3d',
     title: 'Curve Ball 3D',
-    url: 'https://slopegame.io/curve-.embed',
-    image: 'https://play-lh.googleusercontent.com/sTHCFQc1HlSFK2jHNsQOabTeKBvgtugFxnSa_uNLWX2euDE7ohRnJhgCDapOZ0gvxlQ'
+    url: 'https://buckshotroulettee.github.io/game/curve-ball-3d/',
+    image: 'https://images2.1games.io/cache/game/curve-ball-3d/curve-ball-3d-m200x130.webp',
+    description: 'Note: You may see a blank screen. Please give it 5-10 seconds to load'
   },
   {
     id: 'bitlife',
@@ -390,21 +373,21 @@ var games = [
     image: 'https://d.newsweek.com/en/full/1317374/bitlife-ribbons-how-get-all-complete-list-android-ios-cheats-guide-tips-become.jpg?w=1600&h=1600&q=88&f=75befc746fb83a0c568c44ca07bc5e64'
   },
   {
-    id: 'btd4',
-    title: 'Bloons TD 4',
-    url: 'https://assets.3kh0.net/btd4/index.html',
+    id: 'btd3',
+    title: 'Bloons TD 3',
+    url: 'https://unblocked-games.s3.amazonaws.com/games/2024/flash/bloons-tower-defense-3/index.html',
     image: 'https://assets-prd.ignimgs.com/2022/08/16/bloons-td4-button-1660612386362.jpg'
   },
   {
     id: 'ovo',
     title: 'OvO',
-    url: 'https://purepro4561.github.io/OvO',
+    url: 'https://ovo-game.github.io/o/ovo/',
     image: 'https://play-lh.googleusercontent.com/v7KwGdPjJGjJjRXn46sck4DwDBdKSeRzGN44CjiXUtKV0jjOi51Bt4wcXud0m-SkXg=w240-h480-rw'
   },
   {
     id: 'dogeminer',
     title: "Doge Miner",
-    url: 'https://assets.3kh0.net/DogeMiner/index.html',
+    url: 'https://www.crazygames.com/game/doge-miner',
     image: 'https://play-lh.googleusercontent.com/7diC1RZgf6Z5XCspiwJMYD3vQz5TmjFElLw5qnPJZjcjNXgfhepPJzmIBijgraJRd8uv'
   },
   {
@@ -422,50 +405,50 @@ var games = [
   {
     id: 'roblox',
     title: 'Roblox',
-    url: 'https://now.gg/play/roblox-corporation/5349/roblox',
+    url: 'roblox.com/login',
     image: 'https://play-lh.googleusercontent.com/WNWZaxi9RdJKe2GQM3vqXIAkk69mnIl4Cc8EyZcir2SKlVOxeUv9tZGfNTmNaLC717Ht=w240-h480-rw',
-    description: 'EXPERIMENTAL: This may or may not work for you. Please don\'t report it if it doesn\'t. If you have bad WiFi, it may load slower than usual.'
+    description: 'Note: THIS IS ONLY ROBLOX HOME PAGE. WE ARE WORKING ON MAKING THE GAME ACTUALLY WORK!'
   },
   {
     id: 'baconmaydie',
     title: 'Bacon May Die',
-    url: 'https://rawcdn.githack.com/nightrose-labs/quartz/c1832d589bc39c298bd23149733fca1026972d06/2/e333d315-40d0-46f6-a1ef-7e3f6bdd5113/index.html',
+    url: 'https://betterbull.com/uploads/5/5/6/7/5567194/custom_themes/320690105873469650/files/index.html',
     image: 'https://rawcdn.githack.com/nightrose-labs/quartz/c1832d589bc39c298bd23149733fca1026972d06/thumb/e333d315-40d0-46f6-a1ef-7e3f6bdd5113.jpg',
     description: 'Warning: pressing ESC will exit the game.'
   },
   {
     id: 'burninrubber5xs',
     title: 'Burnin\' Rubber 5 XS',
-    url: 'https://rawcdn.githack.com/nightrose-labs/quartz/8ad8d5b123954f4a5d7e35ca84d5aacba0061eec/1/c35dc918-139e-4159-be3d-0d1ef0557e4e/index.html',
+    url: 'https://webglmath.github.io/burnin-rubber-5-xs/',
     image: 'https://rawcdn.githack.com/nightrose-labs/quartz/master/thumb/c35dc918-139e-4159-be3d-0d1ef0557e4e.jpg',
     description: 'This game is resource-heavy. Make sure to adjust quality using the Star button in the main menu.'
   },
   {
     id: 'funnyshooter2',
     title: 'Funny Shooter 2',
-    url: 'https://rawcdn.githack.com/nightrose-labs/quartz/master/1/6af3cc65-32f9-4f3d-a66c-6c8882a7c5df/index.html',
+    url: 'https://html5.gamedistribution.com/a1b7ac4025214a5cb0bd01a4f675513a/?gd_sdk_referrer_url=https%3A%2F%2Ffunnyshooter2.com%2Ffunny-shooter-2',
     image: 'https://rawcdn.githack.com/nightrose-labs/quartz/master/thumb/6af3cc65-32f9-4f3d-a66c-6c8882a7c5df.jpg',
     description: 'This game has a working rewarded ad bypass, but it will temporarily mute the game. It will unmute at level start/end.'
   },
   {
-    id: 'hydrostorm2',
-    title: 'Hydro Storm 2',
-    url: 'https://rawcdn.githack.com/nightrose-labs/quartz/8ad8d5b123954f4a5d7e35ca84d5aacba0061eec/1/283a1142-4fa3-46c4-8a3f-35ac3a28f072/index.html',
-    image: 'https://rawcdn.githack.com/nightrose-labs/quartz/master/thumb/283a1142-4fa3-46c4-8a3f-35ac3a28f072.jpg',
+    id: 'stickmanempires',
+    title: 'Stickman Empire',
+    url: 'https://stickman-empires.1games.io/',
+    image: 'https://images2.1games.io/cache/game/stickman-empires/stickman-empires-m200x130.webp',
     description: 'This game is resource-heavy. Make sure to adjust quality using the Star button in the main menu.'
   },
   {
-    id: 'pixwars2',
-    title: 'PixWars 2',
-    url: 'https://rawcdn.githack.com/nightrose-labs/quartz/master/1/c4e5b82d-a26a-437b-8b6e-7598c98cf39b/index.html',
-    image: 'https://rawcdn.githack.com/nightrose-labs/quartz/master/thumb/c4e5b82d-a26a-437b-8b6e-7598c98cf39b.jpg',
-    description: 'An error is displayed during startup. It can be ignored, the game still works.'
+    id: 'ragdollarchers',
+    title: 'Ragdoll Archers',
+    url: 'https://bitlifeonline.github.io/ragdoll-archers/',
+    image: 'https://images2.1games.io/cache/game/ragdoll-archers/ragdoll-archers-m200x130.webp',
+    description: 'Popular!'
   },
   {
     id: 'recoil',
     title: 'Recoil',
-    url: 'https://rawcdn.githack.com/nightrose-labs/quartz/b0687b5099af0b76aedf37743f2d03cbeef26467/2/5cf218d2-f550-420c-8e55-7029efc5b4db/index.html',
-    image: 'https://rawcdn.githack.com/nightrose-labs/quartz/master/thumb/5cf218d2-f550-420c-8e55-7029efc5b4db.jpg'
+    url: 'https://freetoplayz.github.io/recoil/',
+    image: 'https://images2.1games.io/cache/game/recoil/recoil1-m200x130.webp'
   },
   {
     id: 'vex8',
@@ -494,7 +477,7 @@ var games = [
   {
     id: 'johnnyupgrade',
     title: 'Johnny Upgrade',
-    url: 'https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://s3.amazonaws.com/production-assetsbucket-8ljvyr1xczmb/f107b843-3661-4036-9397-2b0c6414a369%2Fjohnny-upgrade.xml',
+    url: 'https://slope-game.github.io/new3623/johnny-upgrade/',
     image: 'https://lh5.googleusercontent.com/K7sBfR_F4vAkFU9TVSx-hEKnE4b-dhautdjFBoCbXU_Qbq1SAsYXxjCKBXkFeOs8ju2kSQzR7gdyawMdWULaZ44=w1280'
   },
   {
@@ -504,9 +487,9 @@ var games = [
     image: 'https://play-lh.googleusercontent.com/PTnoGeHV-bsIF79sW4IX4MzKAKaWj9fBWGvR4AOA4tmW0eYjPo3bVdpPYR7GGeX-0w'
   },
   {
-    id: 'penguinio',
-    title: "Penguin.io",
-    url: 'https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://cdn.jsdelivr.net/gh/gertdoro/Kubeflow@a4cad845becd2a794dc59bbf5bfff375c5dae041/admission-webhook/examples/penguin.xml',
+    id: 'penguinsio',
+    title: 'Penguins.io',
+    url: 'https://penguins-io.com/',
     image: 'https://play-lh.googleusercontent.com/YsT4stD48fWw0XuIT87ilZtBfTkOGlxj3PpWI9qeFUkrvpu1xjemXzqf12DxBvv-Ikk'
   },
   {
@@ -516,15 +499,15 @@ var games = [
     image: 'https://azgames.io/upload/cache/upload/imgs/dudetheftauto3-m180x180.webp'
   },
   {
-    id: 'digtochina',
-    title: 'Dig to China',
-    url: 'https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://s3.amazonaws.com/production-assetsbucket-8ljvyr1xczmb/1ee20621-61bc-4ec8-a8ec-5e839c2e6edc%2Fdig-to-china.xml',
-    image: 'https://play-lh.googleusercontent.com/R1o8_AuZ53wC5Q60ZKoGBdIXjm4v7k99uGW1Lb8NFk58MeAO_e-IqcOxdPnjOK90'
+    id: 'escaperoad',
+    title: 'Escape Road',
+    url: 'https://escape-road.1games.io/',
+    image: 'https://images2.1games.io/cache/game/escape-road/1024-x-768-m200x130.webp'
   },
   {
     id: 'helixjump',
     title: 'Helix Jump',
-    url: 'https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://cdn.jsdelivr.net/gh/gertdoro/Toolkit@147a37a734f3e4f155e48dbda25000afdc2970ba/Apps/Helix.xml',
+    url: 'https://html5.gamedistribution.com/acb6678608a44d428072ca93d8a0d86c/?gd_sdk_referrer_url=https://1games.io/helix-jump',
     image: 'https://play-lh.googleusercontent.com/cZHORa1z78dfMsP_nxCkplmHGUx5wfjY0x2jK59GWL7rUL5o6c_KiQ7QL9o4T22qbH8'
   },
   {
