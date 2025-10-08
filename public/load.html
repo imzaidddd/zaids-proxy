@@ -10,7 +10,7 @@
   <script src="/uv/uv.bundle.js" charset="UTF-8"></script>
   <script src="/uv/uv.config.js"></script>
   <script src="./js/preload.js"></script>
-  
+
   <script id="aclib" type="text/javascript" src="//acscdn.com/script/aclib.js"></script>
 </head>
 
@@ -44,14 +44,17 @@
       <div id="menubtns">
         <a href="./gs.html">
           <button onclick="window.location.href = '/'">
-            <i class="fas fa-arrow-left"></i>
+            <i class="fas fa-arrow-left"></i> Back
           </button>
         </a>
         <button onclick="document.querySelector('iframe').requestFullscreen()">
-          <i class="fas fa-expand"></i>
+          <i class="fas fa-expand"></i> Fullscreen
         </button>
         <button onclick="favorite()">
-          <i class="favorited far fa-star"></i>
+          <i class="favorited far fa-star"></i> Favorite
+        </button>
+        <button onclick="window.open('https://classroom.google.com/c/NzA4NTQ0NzA3NTc5?cjc=5e644tru', '_blank')" style="min-width: 180px;">
+          Join Google Classroom
         </button>
       </div>
     </div>
@@ -64,9 +67,9 @@
 <script src="./js/load.js"></script>
 
 <script type="text/javascript">
-    aclib.runAutoTag({
-        zoneId: '6hmeyutild',
-    });
+  aclib.runAutoTag({
+    zoneId: '6hmeyutild',
+  });
 </script>
 
 </html>
