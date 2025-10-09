@@ -8,7 +8,8 @@ var apps = [
       "id": "chatgpt",
       "title": "ChatGPT (Working)",
       "url": "https://demo.chat-sdk.dev/",
-      'image': 'https://i.ibb.co/99FbWcrh/chatgpt.png'
+      'image': 'https://i.ibb.co/99FbWcrh/chatgpt.png',
+      "description": "Note: please do not attempt to do anything except to message or send attachments. otherwise ChatGPT will crash!"
       
     },
     {
