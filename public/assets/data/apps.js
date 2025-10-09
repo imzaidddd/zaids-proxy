@@ -5,6 +5,13 @@ var apps = [
       'image': 'assets/images/add.png'
     },
     {
+      "id": "chatgpt",
+      "title": "ChatGPT (Working)",
+      "url": "https://demo.chat-sdk.dev/",
+      'image': 'https://i.ibb.co/99FbWcrh/chatgpt.png'
+      
+    },
+    {
       "id": "google",
       "title": "Google",
       "url": "https://www.google.com/?safe=active&ssui=on",
